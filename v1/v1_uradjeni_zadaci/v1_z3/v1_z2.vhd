@@ -1,4 +1,4 @@
--- -- Milin Ivan e1-079-2023
+-- Milin Ivan e1-079-2023
 -- Zadatak(pdf strana 32)
 -- "Na slici 2.3 je dat zlatni model Bulovog kola, realizovan koriscenjem MUX kola."
 -- "Na slici 2.3 je prikazana implementacija Bulovog kola koriscenjem cetvorobitnih LUT-ova"
